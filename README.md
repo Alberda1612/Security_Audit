@@ -49,7 +49,14 @@ The current assets of the organization were reviewed. Below is a list of the cur
 
 ![](current_assets.JPG)
 
-Upon review, each asset was given the appropriate control name and control type with a brief description of what each control is supposed to achieve. "X" was assigned to controls that need to be implemented. Also, a priority check was done on each control and grouped according to the priority. Attached is the link to the controls assessment document. 
+Upon review, each asset was given the appropriate control name and control type with a brief description of what each control is supposed to achieve. "X" was assigned to controls that need to be implemented. Also, a priority check was done on each control and grouped according to the priority. Attached is the link to the controls assessment [document](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAlberda1612%2FSecurity_Audit%2Fmain%2FControls-assessment.docx&wdOrigin=BROWSELINK) :point_left
+
+The second task was to develop a compliance checklist for the organization.
+From the background information, Botium physically operates in the USA but has an online market that spans abroad. Also, they are looking to expand their online market to Europe. These are the standard regulations considered; GDPR, PCI DSS, AND SOC Type 1 and SOC Type 2.
+
+**_BRIEF EXPLANATION OF COMPLIANCE_**
+1. GDPR : 
+
 
 
 
