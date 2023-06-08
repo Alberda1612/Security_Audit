@@ -62,8 +62,15 @@ Explanation: Since Botium Toys processes payment card transactions, they need to
 
 3. System and Organizations Controls (SOC type 1, SOC type 2) : The SOC1 and SOC2 are a series of reports that focus on an organization's user access policies at different organizational levels. They are used to assess an organization’s financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud. Botium Toys may need to undergo SOC Type 1 and SOC Type 2 audits to demonstrate their adherence to security, availability, processing, integrity, confidentiality, and privacy controls. These reports are often requested by customers and business partners to assess the effectiveness of an organization’s internal controls.
 
-## Conclusion
+## Recommendations
+It is recommended that critical findings relating to compliance with PCI DSS and GDPR be promptly addressed since Botium Toys accepts online payments from customers worldwide, including the E.U. Having disaster recovery plans and backup is also critical because they support business continuity in the event of an incident, integrating an IDS and Antivirus Software into the current systems will support our ability to identify and mitigate potential risks, and could help with intrusion detection, since existing legacy systems require manual monitoring and intervention. 
 
+## Conclusion
+In conclusion, the security audit project at Botium Toys was a comprehensive assessment of their security program, assets, controls, and compliance. Through the evaluation of user permissions, implemented controls, and procedures, the project identified areas of improvement and potential risks. Recommendations were provided to fortify system controls, establish better compliance processes, and implement the concept of least permissions. By addressing these findings and adhering to relevant compliance regulations, Botium Toys can enhance their security posture, protect customer and vendor data, and ensure a resilient and compliant environment for their expanding business operations.
+
+Find the full documentation of the security audit communicating findings :point_right: [here]()
+
+#Thank You :smiley:
 
 
 
