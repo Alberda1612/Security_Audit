@@ -29,4 +29,8 @@ The IT manager starts by implementing the National Institute of Standards and Te
 ## Review of Scope and Goals
 ![](pexels-markus.jpg)
 
+As stated in the background information, the scope and goals as well as the risk assessment assessment has already been done by the IT Manager. My duty is to review the work done by the manager and develop a control assessemnt and a compliance checklist for the organization.
+
+![]()
+
 
