@@ -26,11 +26,24 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 **_Task_**: Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist. 
 
-## Review of Scope and Goals
+## Review of Scope, Goals and Risk Assessment 
 ![](pexels-markus.jpg)
 
 As stated in the background information, the scope and goals as well as the risk assessment assessment has already been done by the IT Manager. My duty is to review the work done by the manager and develop a control assessemnt and a compliance checklist for the organization.
 
-![]()
+![](Scope.JPG)
+The diagram above outlines the scope of the audit. 
+
+![](goals.JPG)
+
+Upon review, it was established that Botium Toys' internal IT audit aims to assess user permissions, controls, procedures, and protocols in various systems, ensuring compliance and fortifying system controls. The goals of the audit include adhering to the NIST CSF, establishing better processes for compliance, fortifying controls, implementing least privilege principles, and ensuring compliance requirements are met. 
+
+Below is a list of the current assets of Botium Toys.
+![](current_assets.JPG)
+
+!The risk description highlights inadequate asset management and lack of proper controls, posing a medium potential impact and a high likelihood of lost assets or fines.
+![](risk_des.JPG)
+![](risk_score.JPG)
+
 
 
