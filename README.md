@@ -25,6 +25,7 @@ The manager of the IT department has decided that an internal IT audit needs to 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, and completing a risk assessment. The goal of the audit is to provide an overview of the risks the company might experience due to the current state of their security posture. The IT manager wants to use the audit findings as evidence to obtain approval to expand his department. 
 
 **_Task_**: Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist. 
+**_Note_**: Botium Toys is a fictional organization developed for the sake of this case study.
 
 ## Review of Scope, Goals and Risk Assessment 
 ![](pexels-markus.jpg)
@@ -32,18 +33,23 @@ The IT manager starts by implementing the National Institute of Standards and Te
 As stated in the background information, the scope and goals as well as the risk assessment assessment has already been done by the IT Manager. My duty is to review the work done by the manager and develop a control assessemnt and a compliance checklist for the organization.
 
 ![](Scope.JPG)
+
 The diagram above outlines the scope of the audit. 
 
 ![](goals.JPG)
 
 Upon review, it was established that Botium Toys' internal IT audit aims to assess user permissions, controls, procedures, and protocols in various systems, ensuring compliance and fortifying system controls. The goals of the audit include adhering to the NIST CSF, establishing better processes for compliance, fortifying controls, implementing least privilege principles, and ensuring compliance requirements are met. 
 
-Below is a list of the current assets of Botium Toys.
-![](current_assets.JPG)
-
 !The risk description highlights inadequate asset management and lack of proper controls, posing a medium potential impact and a high likelihood of lost assets or fines.
 ![](risk_des.JPG)
 ![](risk_score.JPG)
+
+## Controls Assessment
+The current assets of the organization were reviewed. Below is a list of the current assets of Botium Toys.
+
+![](current_assets.JPG)
+
+Upon review, each asset was given the appropriate control name and control type with a brief description of what each control is supposed to achieve. "X" was assigned to controls that need to be implemented. Also, a priority check was done on each control and grouped according to the priority. Attached is the link to the controls assessment document. 
 
 
 
