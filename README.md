@@ -68,7 +68,7 @@ It is recommended that critical findings relating to compliance with PCI DSS and
 ## Conclusion
 In conclusion, the security audit project at Botium Toys was a comprehensive assessment of their security program, assets, controls, and compliance. Through the evaluation of user permissions, implemented controls, and procedures, the project identified areas of improvement and potential risks. Recommendations were provided to fortify system controls, establish better compliance processes, and implement the concept of least permissions. By addressing these findings and adhering to relevant compliance regulations, Botium Toys can enhance their security posture, protect customer and vendor data, and ensure a resilient and compliant environment for their expanding business operations.
 
-Find the full documentation of the security audit communicating findings :point_right: [here]()
+Find the full documentation of the security audit communicating findings :point_right: [here](https://github.com/Alberda1612/Security_Audit/blob/main/Stakeholder-memorandum.pdf)
 
 #Thank You :smiley:
 
