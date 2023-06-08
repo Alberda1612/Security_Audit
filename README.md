@@ -49,13 +49,21 @@ The current assets of the organization were reviewed. Below is a list of the cur
 
 ![](current_assets.JPG)
 
-Upon review, each asset was given the appropriate control name and control type with a brief description of what each control is supposed to achieve. "X" was assigned to controls that need to be implemented. Also, a priority check was done on each control and grouped according to the priority. Attached is the link to the controls assessment [document](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAlberda1612%2FSecurity_Audit%2Fmain%2FControls-assessment.docx&wdOrigin=BROWSELINK) :point_left
+Upon review, each asset was given the appropriate control name and control type with a brief description of what each control is supposed to achieve. "X" was assigned to controls that need to be implemented. Also, a priority check was done on each control and grouped according to the priority. Attached is the link to the controls assessment [document](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAlberda1612%2FSecurity_Audit%2Fmain%2FControls-assessment.docx&wdOrigin=BROWSELINK) :point_left: 
 
 The second task was to develop a compliance checklist for the organization.
 From the background information, Botium physically operates in the USA but has an online market that spans abroad. Also, they are looking to expand their online market to Europe. These are the standard regulations considered; GDPR, PCI DSS, AND SOC Type 1 and SOC Type 2.
 
 **_BRIEF EXPLANATION OF COMPLIANCE_**
-1. GDPR : 
+1. GDPR : GDPR is an European Union (E.U.) general data regulation that protects the processing of E.U. citizens’ data and their right to privacy in and out of E.U. territory. Botium Toys is expanding its online market to Europe. GDPR governs the protection, processing, and transfer of personal data of individuals within the European Union. Compliance with GDPR ensures that Botium Toys handles personal data of EU residents in a lawful and secure manner, respecting their privacy rights.
+
+2. Payment Card Industry Data Security Standard (PCI DSS) : PCI DSS is an international security standard meant to ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment. 
+Explanation: Since Botium Toys processes payment card transactions, they need to comply with PCI DSS. This standard ensures the secure handling of credit cardholder data and establishes guidelines for maintaining a secure payment environment. Compliance with PCI DSS helps protect customer payment card information and reduces the risk of data breaches and fraud.
+
+3. System and Organizations Controls (SOC type 1, SOC type 2) : The SOC1 and SOC2 are a series of reports that focus on an organization's user access policies at different organizational levels. They are used to assess an organization’s financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud. Botium Toys may need to undergo SOC Type 1 and SOC Type 2 audits to demonstrate their adherence to security, availability, processing, integrity, confidentiality, and privacy controls. These reports are often requested by customers and business partners to assess the effectiveness of an organization’s internal controls.
+
+## Conclusion
+
 
 
 
