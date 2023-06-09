@@ -70,7 +70,7 @@ In conclusion, the security audit project at Botium Toys was a comprehensive ass
 
 Find the full documentation of the security audit communicating findings :point_right: [here](https://github.com/Alberda1612/Security_Audit/blob/main/Stakeholder-memorandum.pdf)
 
-#Thank You :smiley:
+# Thank You :smiley:
 
 
 
